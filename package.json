@@ -11,7 +11,7 @@
     "react-scripts": "3.2.0",
     "semantic-ui-react": "^0.88.1",
     "uniquid": "^1.1.4",
-    "xlsx": "^0.15.3"
+    "xlsx": "^0.17.0"
   },
   "scripts": {
     "start": "react-scripts start",
